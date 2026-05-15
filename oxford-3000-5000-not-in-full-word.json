@@ -1,0 +1,166 @@
+[
+    {
+        "id": 644,
+        "value": {
+            "word": "common",
+            "href": "https://www.oxfordlearnersdictionaries.com/definition/english/common_2",
+            "type": "noun",
+            "level": "A1",
+            "us": {
+                "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/commo/common__us_2.mp3",
+                "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/com/commo/common__us_2.ogg"
+            },
+            "uk": {
+                "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/commo/common__gb_2.mp3",
+                "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/c/com/commo/common__gb_2.ogg"
+            },
+            "phonetics": {
+                "us": "/ˈkɑːmən/",
+                "uk": "/ˈkɒmən/"
+            },
+            "examples": [
+                "We went for a walk on the common.",
+                "Wimbledon Common",
+                "The commons is next to the gym.",
+                "Tim and I have nothing in common./I have nothing in common with Tim.",
+                "The two cultures have a lot in common.",
+                "They hold the property as tenants in common.",
+                "Britain, in common with many other industrialized countries, has experienced major changes over the last 100 years.",
+                "India, in common with many other countries, has experienced major changes over the last 100 years."
+            ]
+        }
+    },
+    {
+        "id": 2061,
+        "value": {
+            "word": "mess",
+            "href": "https://www.oxfordlearnersdictionaries.com/definition/english/mess_2",
+            "type": "verb",
+            "level": "B1",
+            "us": {
+                "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mes/messi/messing__us_1.mp3",
+                "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/m/mes/messi/messing__us_1.ogg"
+            },
+            "uk": {
+                "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mes/messi/messing__gb_1.mp3",
+                "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/m/mes/messi/messing__gb_1.ogg"
+            },
+            "phonetics": {
+                "us": "/mes/",
+                "uk": "/mes/"
+            },
+            "examples": [
+                "Careful—you're messing my hair.",
+                "When they spend all this time on social media, they are seeing things that mess with their heads.",
+                "We finished in time, no messing.",
+                "When they decide to have a party they don't mess around."
+            ]
+        }
+    },
+    {
+        "id": 2257,
+        "value": {
+            "word": "o’clock",
+            "href": "https://www.oxfordlearnersdictionaries.com/definition/english/o-clock",
+            "type": "adverb",
+            "level": "A1",
+            "us": {
+                "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/o_c/o_clo/o_clock_1_us_1.mp3",
+                "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/o/o_c/o_clo/o_clock_1_us_1.ogg"
+            },
+            "uk": {
+                "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/o/o_c/o_clo/o_clock_1_gb_1.mp3",
+                "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/o/o_c/o_clo/o_clock_1_gb_1.ogg"
+            },
+            "phonetics": {
+                "us": "/əˈklɑːk/",
+                "uk": "/əˈklɒk/"
+            },
+            "examples": [
+                "He left between five and six o'clock.",
+                "at/after/before eleven o’clock"
+            ]
+        }
+    },
+    {
+        "id": 5171,
+        "value": {
+            "word": "part-time",
+            "href": "https://www.oxfordlearnersdictionaries.com/definition/english/part-time",
+            "type": "adverb",
+            "level": "B2",
+            "us": {
+                "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/par/part_/part_time_1_us_1.mp3",
+                "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/p/par/part_/part_time_1_us_1.ogg"
+            },
+            "uk": {
+                "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/par/part_/part_time_1_gb_1.mp3",
+                "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/p/par/part_/part_time_1_gb_1.ogg"
+            },
+            "phonetics": {
+                "us": "/ˌpɑːrt ˈtaɪm/",
+                "uk": "/ˌpɑːt ˈtaɪm/"
+            },
+            "examples": [
+                "She's looking for a part-time job.",
+                "to study on a part-time basis",
+                "part-time workers",
+                "I'm only part-time at the moment.",
+                "Liz works part-time from 10 till 2."
+            ]
+        }
+    },
+    {
+        "id": 5240,
+        "value": {
+            "word": "premier",
+            "href": "https://www.oxfordlearnersdictionaries.com/definition/english/premier_2",
+            "type": "noun",
+            "level": "C1",
+            "us": {
+                "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pre/premi/premier__us_1_rr.mp3",
+                "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/p/pre/premi/premier__us_1_rr.ogg"
+            },
+            "uk": {
+                "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pre/premi/premier__gb_1.mp3",
+                "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/p/pre/premi/premier__gb_1.ogg"
+            },
+            "phonetics": {
+                "us": "/prɪˈmɪr/",
+                "uk": "/ˈpremiə(r)/"
+            },
+            "examples": [
+                "She was sworn in as premier last week."
+            ]
+        }
+    },
+    {
+        "id": 5269,
+        "value": {
+            "word": "proceedings",
+            "href": "https://www.oxfordlearnersdictionaries.com/definition/english/proceeding",
+            "type": "noun",
+            "level": "C1",
+            "us": {
+                "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/proce/proceeding__us_1_rr.mp3",
+                "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/p/pro/proce/proceeding__us_1_rr.ogg"
+            },
+            "uk": {
+                "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/proce/proceeding__gb_1.mp3",
+                "ogg": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/p/pro/proce/proceeding__gb_1.ogg"
+            },
+            "phonetics": {
+                "us": "/prəˈsiːdɪŋ/",
+                "uk": "/prəˈsiːdɪŋ/"
+            },
+            "examples": [
+                "court/legal/judicial proceedings",
+                "bankruptcy/divorce/extradition proceedings",
+                "There was enough evidence to bring criminal proceedings against her.",
+                "The EU has started legal proceeedings against the country for its failure to implement the directive.",
+                "The Mayor will open the proceedings at the City Hall tomorrow.",
+                "We watched the proceedings from the balcony."
+            ]
+        }
+    }
+]

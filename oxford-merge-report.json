@@ -1,0 +1,296 @@
+{
+    "input": {
+        "pdfs": [
+            "Oxford 3000.pdf",
+            "Oxford 5000.pdf"
+        ],
+        "full_word": "full-word.json"
+    },
+    "parsed": {
+        "pdfs": {
+            "Oxford 3000.pdf": {
+                "lines": 3000,
+                "items": 3806
+            },
+            "Oxford 5000.pdf": {
+                "lines": 1999,
+                "items": 2106
+            }
+        },
+        "duplicates": [
+            {
+                "word": "rest",
+                "type": "noun",
+                "level": "A2",
+                "sources": [
+                    {
+                        "pdf": "Oxford 3000.pdf",
+                        "head": "rest (remaining part)",
+                        "line": "rest (remaining part) n. A2"
+                    },
+                    {
+                        "pdf": "Oxford 3000.pdf",
+                        "head": "rest (sleep/relax)",
+                        "line": "rest (sleep/relax) n., v. A2"
+                    }
+                ]
+            },
+            {
+                "word": "rock",
+                "type": "noun",
+                "level": "A2",
+                "sources": [
+                    {
+                        "pdf": "Oxford 3000.pdf",
+                        "head": "rock (stone)",
+                        "line": "rock (stone) n. A2"
+                    },
+                    {
+                        "pdf": "Oxford 3000.pdf",
+                        "head": "rock (music)",
+                        "line": "rock (music) n. A2"
+                    }
+                ]
+            },
+            {
+                "word": "tear",
+                "type": "noun",
+                "level": "B2",
+                "sources": [
+                    {
+                        "pdf": "Oxford 3000.pdf",
+                        "head": "tear 1",
+                        "line": "tear 1 v., n. B2"
+                    },
+                    {
+                        "pdf": "Oxford 3000.pdf",
+                        "head": "tear 2",
+                        "line": "tear 2 n. B2"
+                    }
+                ]
+            },
+            {
+                "word": "used",
+                "type": "adjective",
+                "level": "B1",
+                "sources": [
+                    {
+                        "pdf": "Oxford 3000.pdf",
+                        "head": "used 1",
+                        "line": "used 1 adj. B1"
+                    },
+                    {
+                        "pdf": "Oxford 3000.pdf",
+                        "head": "used 2",
+                        "line": "used 2 adj. B1"
+                    }
+                ]
+            }
+        ],
+        "raw_items": 5912,
+        "unique_items": 5908
+    },
+    "resolved": {
+        "matches": {
+            "exact": 5875,
+            "loose_word_type": 7,
+            "compatible_word_level": 10,
+            "crawled": 16,
+            "placeholder_unresolved": 0
+        },
+        "level_overrides": [],
+        "type_corrections": [
+            {
+                "word": "cannot",
+                "level": "A1",
+                "from": "verb",
+                "to": "modal verb",
+                "reason": "single_local_word_level_candidate"
+            },
+            {
+                "word": "fifth",
+                "level": "A1",
+                "from": "number",
+                "to": "ordinal number",
+                "reason": "single_local_word_level_candidate"
+            },
+            {
+                "word": "first",
+                "level": "A1",
+                "from": "number",
+                "to": "ordinal number",
+                "reason": "single_local_word_level_candidate"
+            },
+            {
+                "word": "fourth",
+                "level": "A1",
+                "from": "number",
+                "to": "ordinal number",
+                "reason": "single_local_word_level_candidate"
+            },
+            {
+                "word": "second",
+                "level": "A1",
+                "from": "number",
+                "to": "ordinal number",
+                "reason": "single_local_word_level_candidate"
+            },
+            {
+                "word": "seem",
+                "level": "A2",
+                "from": "verb",
+                "to": "linking verb",
+                "reason": "single_local_word_level_candidate"
+            },
+            {
+                "word": "third",
+                "level": "A1",
+                "from": "number",
+                "to": "ordinal number",
+                "reason": "single_local_word_level_candidate"
+            },
+            {
+                "word": "diplomatic",
+                "level": "C1",
+                "from": "noun",
+                "to": "adjective",
+                "reason": "single_local_word_level_candidate_after_crawl"
+            },
+            {
+                "word": "nursing",
+                "level": "B2",
+                "from": "adjective",
+                "to": "noun",
+                "reason": "single_local_word_level_candidate_after_crawl"
+            },
+            {
+                "word": "seldom",
+                "level": "C1",
+                "from": "noun",
+                "to": "adverb",
+                "reason": "single_local_word_level_candidate_after_crawl"
+            }
+        ],
+        "crawled": [
+            {
+                "word": "angrily",
+                "type": "adverb",
+                "level": "A2",
+                "href": "https://www.oxfordlearnersdictionaries.com/definition/english/angrily",
+                "reason": "invalid_local_media"
+            },
+            {
+                "word": "bank",
+                "type": "noun",
+                "level": "B1",
+                "href": "https://www.oxfordlearnersdictionaries.com/definition/english/bank_1",
+                "reason": "multi_level_word_type"
+            },
+            {
+                "word": "common",
+                "type": "noun",
+                "level": "A1",
+                "href": "https://www.oxfordlearnersdictionaries.com/definition/english/common_2",
+                "reason": "missing_local_match"
+            },
+            {
+                "word": "light",
+                "type": "adjective",
+                "level": "A2",
+                "href": "https://www.oxfordlearnersdictionaries.com/definition/english/light_2",
+                "reason": "multi_level_word_type"
+            },
+            {
+                "word": "mess",
+                "type": "verb",
+                "level": "B1",
+                "href": "https://www.oxfordlearnersdictionaries.com/definition/english/mess_2",
+                "reason": "missing_local_match"
+            },
+            {
+                "word": "o’clock",
+                "type": "adverb",
+                "level": "A1",
+                "href": "https://www.oxfordlearnersdictionaries.com/definition/english/o-clock",
+                "reason": "missing_local_match"
+            },
+            {
+                "word": "produce",
+                "type": "verb",
+                "level": "B2",
+                "href": "https://www.oxfordlearnersdictionaries.com/definition/english/produce_1",
+                "reason": "multi_level_word_type"
+            },
+            {
+                "word": "race",
+                "type": "noun",
+                "level": "B1",
+                "href": "https://www.oxfordlearnersdictionaries.com/definition/english/race_1",
+                "reason": "multi_level_word_type"
+            },
+            {
+                "word": "ring",
+                "type": "noun",
+                "level": "B1",
+                "href": "https://www.oxfordlearnersdictionaries.com/definition/english/ring1_1",
+                "reason": "multi_level_word_type"
+            },
+            {
+                "word": "accounting",
+                "type": "noun",
+                "level": "B2",
+                "href": "https://www.oxfordlearnersdictionaries.com/definition/english/accounting",
+                "reason": "invalid_local_media"
+            },
+            {
+                "word": "cleaning",
+                "type": "noun",
+                "level": "B2",
+                "href": "https://www.oxfordlearnersdictionaries.com/definition/english/cleaning",
+                "reason": "invalid_local_media"
+            },
+            {
+                "word": "feeding",
+                "type": "noun",
+                "level": "C1",
+                "href": "https://www.oxfordlearnersdictionaries.com/definition/english/feeding",
+                "reason": "invalid_local_media"
+            },
+            {
+                "word": "major",
+                "type": "noun",
+                "level": "C1",
+                "href": "https://www.oxfordlearnersdictionaries.com/definition/english/major_2",
+                "reason": "invalid_local_media"
+            },
+            {
+                "word": "part-time",
+                "type": "adverb",
+                "level": "B2",
+                "href": "https://www.oxfordlearnersdictionaries.com/definition/english/part-time",
+                "reason": "missing_local_match"
+            },
+            {
+                "word": "premier",
+                "type": "noun",
+                "level": "C1",
+                "href": "https://www.oxfordlearnersdictionaries.com/definition/english/premier_2",
+                "reason": "missing_local_match"
+            },
+            {
+                "word": "proceedings",
+                "type": "noun",
+                "level": "C1",
+                "href": "https://www.oxfordlearnersdictionaries.com/definition/english/proceeding",
+                "reason": "missing_local_match"
+            }
+        ],
+        "unresolved": [],
+        "crawl_errors": []
+    },
+    "validation": {
+        "items": 5908,
+        "missing_required": [],
+        "duplicate_word_type_level": []
+    }
+}
